@@ -20,6 +20,7 @@ I'm Luca! I'm a **IT STUDENT** founder of **DoggoCorporation**, interested prima
 ### 💼  Things that I'm currently working on: 
 * 🌐 Learning Python socket programming 
 * 💻 Learning low level  stuff
+* 📚 Learning DS and Algorithms
 * 🔜
 
 ### 💻 Coding Projects i'm currently working on:
