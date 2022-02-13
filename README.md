@@ -10,6 +10,7 @@ I'm Luca! I'm a **IT STUDENT** founder of **DoggoCorporation**, interested prima
 [![Gmail](https://img.shields.io/badge/-l.rivo04-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:l.rivo04@gmail.com)
 [![Telegram](https://img.shields.io/badge/-@lrivo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lrivo)
 [![Instagram](https://img.shields.io/badge/-l.rivo4-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/l.rivo4)
+[![LeetCode](https://img.shields.io/badge/-l.rivo04-c14438?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/user1305vf/)
 
 
 <!-- Profile View Count -->
