@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Luca! I'm a **IT STUDENT**, interested primarly in **cybersecurity** 🛡️.
+I'm Luca! I'm a **IT STUDENT** founder of **DoggoCorporation**, interested primarly in **cybersecurity** 🛡️.
 <br>
 
 <!-- Your badges -->
