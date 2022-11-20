@@ -18,16 +18,14 @@ I'm Luca! I'm a **IT STUDENT** founder of **DoggoCorporation**, interested prima
 
 
 ### 💼  Things that I'm currently working on: 
-* 🌐 Learning JavaScript and Flask
-* 🔎 Learning Python socket programming 
-* 💻 Learning low level  stuff
+* Learning DOCKER
 * 🔜
 
 ### 💻 Coding Projects i'm currently working on:
-* 🔑 Client-server model password manager
+* 
 
 ### 🌱 Challenges that I’m currently challenging myself:
-* 📅 Better study organization
+* 📅 Better organization
 * 🔜
 
  ### Languages and Tools:
