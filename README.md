@@ -20,4 +20,4 @@ I'm Luca, 19 years old italian cybersecurity student in Milan at [UNIMI](https:/
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-visual%20studio%20code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Editor-visual%20studio%20code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
