@@ -2,11 +2,11 @@
 
 ---
 
-🌱 Learning Solidity and DeFi attack vectors every day!
+Mainly interested in:
+- Web3 Security (especially blockchain architecture)
+- System Programming in C/Rust
 
-📝 Competing on Code4Arena and Sherlock
-
-👀 Expanding to Solana/Polkadot by learning Rust
+👀 I'm writing my own x86 operating system
 
 🎓 Studying "Sicurezza dei sistemi e delle Reti Informatiche" at UNIMI, Milan
 
