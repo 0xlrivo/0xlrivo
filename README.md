@@ -2,13 +2,13 @@
 
 ---
 
-Mainly interested in:
+Most interesting fields for me:
 - Web3 Security (especially blockchain architecture)
 - System Programming in C/Rust
 
-👀 I'm writing my own x86 operating system
-
 🎓 Studying "Sicurezza dei sistemi e delle Reti Informatiche" at UNIMI, Milan
+
+👀 Trying (slowly) to write an x86 operating system
 
 📫 You can reach me at 0xlrivo@gmail.com
 
