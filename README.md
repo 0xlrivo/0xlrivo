@@ -1,25 +1,22 @@
-<h3 align="center">✋ Hello there</h3>
+<h3 align="center">✋ Hey there!</h3>
 
 ---
 
-Most interesting fields for me:
-- Web3 Security
-- System Programming in C/Rust
-- Cybersecurity
+### 🌟 About Me
+>Passionate about **Web3 Security**, **System Programming (C/Rust)**, and **Cybersecurity**.
 
-🥇 Competing in web3 auditing contests mainly on Cantina and Sherlock
+- 🥇 Competing in Web3 auditing contests on Cantina and Sherlock — [Check out my portfolio](https://github.com/0xlrivo/audits).
+- 🎓 Currently studying *Sicurezza dei Sistemi e delle Reti Informatiche* at **UNIMI**, Milan.
+- 🛠️ Love rebuilding core software (OS, databases) to really understand how they work internally.
+- 📫 You can reach me at **0xlrivo@gmail.com**.
 
-🎓 Studying "Sicurezza dei sistemi e delle Reti Informatiche" at UNIMI, Milan
+### 🖥️ Programming Languages
 
-👀 Trying (slowly) to write an x86 operating system
+![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=blue)
+![Rust](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&logoColor=white&color=orange)
+![Go](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&logoColor=white&color=blue)
+![Solidity](https://img.shields.io/badge/Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=grey)
 
-📫 You can reach me at 0xlrivo@gmail.com
+### 🔧 Tools I Use
 
-### Programming Languages
-![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=grey)
-
-### 🛠️ Tools
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
