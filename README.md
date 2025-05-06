@@ -18,5 +18,5 @@
 ![Solidity](https://img.shields.io/badge/Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=grey)
 
 ### 🔧 Tools I Use
-
+![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=orange)
 ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
