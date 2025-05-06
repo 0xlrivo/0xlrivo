@@ -7,7 +7,7 @@
 
 - 🥇 Competing in Web3 auditing contests on Cantina and Sherlock — [Check out my portfolio](https://github.com/0xlrivo/audits).
 - 🎓 Currently studying *Sicurezza dei Sistemi e delle Reti Informatiche* at **UNIMI**, Milan.
-- 🛠️ Love rebuilding core software (OS, databases) to really understand how they work internally.
+- 🛠️ Developing my own hobbyist OS — [Learnix86-OS](https://github.com/0xlrivo/learnix86-os)
 - 📫 You can reach me at **0xlrivo@gmail.com**.
 
 ### 🖥️ Programming Languages
